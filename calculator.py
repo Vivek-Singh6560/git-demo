@@ -1,4 +1,5 @@
 def add(a, b):
-    """Add two numbers and return result"""
-    print("Performing addition...")
-    return a + b
+    return a + b + 1
+
+def subtract(a, b):
+    return a - b
